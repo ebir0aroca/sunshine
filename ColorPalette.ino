@@ -1,5 +1,5 @@
-# Source from: https://github.com/FastLED/FastLED/blob/master/examples/ColorPalette/ColorPalette.ino
-# https://github.com/FastLED/FastLED/tree/master/examples
+// Source from: https://github.com/FastLED/FastLED/blob/master/examples/ColorPalette/ColorPalette.ino
+// https://github.com/FastLED/FastLED/tree/master/examples
 
 #include <FastLED.h>
 #define LED_PIN     5
